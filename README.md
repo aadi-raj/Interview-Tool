@@ -1,2 +1,2 @@
 # Interview-Tool
-This will help anyone in preparing for the technical job interview.
+This will help in preparing for the technical job interview.
